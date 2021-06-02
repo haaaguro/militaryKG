@@ -10,5 +10,5 @@ jieba==0.39
 matplotlib==3.1.2
 networkx==2.4
 PyMySQL==0.9.3
-urllib3==1.24.2
+urllib3==1.26.5
 
